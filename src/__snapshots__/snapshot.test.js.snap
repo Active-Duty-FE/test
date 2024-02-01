@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test config 1`] = `
+{
+  "host": "localhost",
+  "port": "3000",
+}
+`;
+
+exports[`test config 2`] = `
+{
+  "host": "localhost",
+  "port": "30001ww",
+  "time": Any<Date>,
+}
+`;
