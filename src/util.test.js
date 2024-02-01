@@ -14,4 +14,4 @@ test('multi function', () => {
     expect(res).toBe(12)
 })
 
-// a b c d
+// a b c d e f
